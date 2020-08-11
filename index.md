@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+# We Collect No Personal Inforrmation Using Our Applications
 
-You can use the [editor on GitHub](https://github.com/egagin/distance_donut_privacy/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+We do not collect, use, save, or have access to any of your personal data through the Distance Donut app.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Individual settings relating to the Distance Donut app are not perrsonal and are stored only on your device. You will be asked to prrovide access to your camera. This is only so that you can use augmented reality to see the donut. We don't store any image information and have no access to it.
 
-### Markdown
+In addition, if you take a screenshot or photo while using the Distance Donut app, it will be saved on your device, in your photo library, and we will have no access to it.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/egagin/distance_donut_privacy/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+For more information about Distance Donut or to contact us, please see our [support page] (https://egagin.github.io/distance_donut_support/)
