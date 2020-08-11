@@ -6,4 +6,4 @@ Individual settings relating to the Distance Donut app are not perrsonal and are
 
 In addition, if you take a screenshot or photo while using the Distance Donut app, it will be saved on your device, in your photo library, and we will have no access to it.
 
-For more information about Distance Donut or to contact us, please see our [support page] (https://egagin.github.io/distance_donut_support/)
+For more information about Distance Donut or to contact us, please see our [support page](https://egagin.github.io/distance_donut_support/)
