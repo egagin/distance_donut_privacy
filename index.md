@@ -1,4 +1,4 @@
-# We Collect No Personal Inforrmation Using Our Applications
+# We Collect No Personal Information Using Our Applications
 
 We do not collect, use, save, or have access to any of your personal data through the Distance Donut app.
 
